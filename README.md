@@ -6,4 +6,4 @@
 
 보고 공부에 도움이 되었으면 합니다.
 
-코드에 대한 동작 원리 및 이론에 대한 내용은 <a?https://csh-study.tistory.com/</a>에서 보실 수 있습니다.
+코드에 대한 동작 원리 및 이론에 대한 내용은 <a>https://csh-study.tistory.com/</a>에서 볼 수 있습니다.
